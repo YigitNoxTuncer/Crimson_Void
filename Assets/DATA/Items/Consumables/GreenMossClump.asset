@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 319a48b8158ccba4b82893b4009425c7, type: 3}
+  m_Name: GreenMossClump
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 787d0ee91e3b97f49a6bcdf44b5c2211, type: 3}
+  itemName: Green Moss Clump
+  maxItemAmount: 5
+  currentItemAmount: 2
+  itemModel: {fileID: 1576290886588535771, guid: 03f9b4953cbb4ca419b827e887e49a8c, type: 3}
+  consumableAnimation: Drink
+  isInteracting: 0
+  clumpConsumeFX: {fileID: 1658616877871894286, guid: 6ad5fa6a346922c42a6026bede4f5b36, type: 3}
+  curePoison: 1

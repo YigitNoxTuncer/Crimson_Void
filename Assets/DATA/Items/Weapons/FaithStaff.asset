@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da5675e8752b5e49b8812edd55c15f4, type: 3}
+  m_Name: FaithStaff
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: dea2f34e024fac342960e3db8878b796, type: 3}
+  itemName: Staff
+  modelPrefab: {fileID: 6834665728318259190, guid: 7124dc2a132d33448a320e93153d713e, type: 3}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamageMultiplier: 2
+  physicalDamageAbsorption: 0
+  right_hand_idle: Right_Arm_Idle_01
+  left_hand_idle: Left_Arm_Idle_01
+  th_idle: TH_Idle_01
+  OH_Light_Attack_1: OH_Light_Attack_1
+  OH_Heavy_Attack_1: OH_Heavy_Attack_1
+  OH_Light_Attack_2: OH_Light_Attack_2
+  TH_Light_Attack_1: TH_Light_Attack_1
+  TH_Light_Attack_2: TH_Light_Attack_2
+  weapon_art: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isMagicCaster: 0
+  isFaithCaster: 1
+  isPyroCaster: 0
+  isMeleeWeapon: 0
+  isShieldWeapon: 0

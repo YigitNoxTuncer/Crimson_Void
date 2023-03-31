@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb8277de713dd342a3184796a1b7794, type: 3}
+  m_Name: CrimsonFlask
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 028a7b79f3b598e40be27ace58121154, type: 3}
+  itemName: Crimson Flask
+  maxItemAmount: 5
+  currentItemAmount: 0
+  itemModel: {fileID: 7899141545551743470, guid: 53bf2063fe92af9439e7da5d2868cc4b, type: 3}
+  consumableAnimation: Drink
+  isInteracting: 1
+  crimsonFlask: 1
+  voidFlask: 0
+  healthRecoveryAmount: 50
+  focusPointsRecoveryAmount: 0
+  recoveryFX: {fileID: 1658616877871894286, guid: 1ed8ca6f36aa61043947dd1057ff26c7, type: 3}
